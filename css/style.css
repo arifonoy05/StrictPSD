@@ -1,0 +1,77 @@
+body{
+    font-family: 'Lato', sans-serif;
+    display: block;
+}
+
+/* header */
+header{}
+.navbar{}
+.navbar .container{}
+.navbar .container .navbar-brand{}
+.navbar .container .navbar-nav {
+    display: inline-block;
+}
+.navbar .container .navbar-nav .nav-item {
+    float: left;
+}
+.navbar .container .navbar-nav .nav-item .nav-link{}
+/* header */
+
+/* cover */
+.cover{
+    background: url(../img/bg.jpg);
+    height: 100vh;
+}
+.cover .container{}
+.cover .container h1{}
+.cover .container p{}
+.cover .container .cover-btn{}
+.cover .container a{}
+/* cover */
+
+/* simple */
+.simple{}
+.simple .container{}
+.simple .container h1{}
+.simple .container p{}
+/* simple */
+
+/* feature */
+.feature{}
+.feature .container{}
+.feature .container .feature-icon{}
+.feature .container .feature-icon img{}
+.feature .container .feature-icon i{}
+.feature .container h3{}
+.feature .container p{}
+/* feature */
+
+/* portfolio */
+.portfolio{}
+.portfolio .container{}
+.portfolio .container .port-top{}
+.portfolio .container .port-bottom{}
+/* portfolio */
+
+/* contact */
+.contact{}
+.contact .container{}
+.contact .container h1{}
+.contact .container p{}
+.contact .container .contact-form{}
+.contact .container .contact-form form{}
+.contact .container .contact-form form .form-group{}
+.contact .container .contact-form form .form-group input{}
+.contact .container .contact-form form .form-group label{}
+.contact .container .contact-form form .form-group input{}
+.contact .container .contact-form form .form-check{}
+.contact .container .contact-form form .form-check label{}
+.contact .container .contact-form form .contact-btn{}
+/* contact */
+
+/* footer */
+footer{}
+footer .container{}
+footer .container p{}
+footer .container i{}
+/* footer */
